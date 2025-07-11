@@ -10,7 +10,7 @@ document_metadata:
   document_id: "CF-PI-BIBLE-2025-001"
   estimated_size: "400-500kb+"
   author: "Manus AI"
-  document_integrity_hash: "[TO_BE_CALCULATED]"
+  document_integrity_hash: "e601eb38e815c8d67e23bfd06a0ddd367d842888c35b5f3e75648b2cf9a6873f"
   
 registry_metadata:
   framework_integration: "CF-PI"
