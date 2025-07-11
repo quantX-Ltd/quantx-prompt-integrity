@@ -9,7 +9,7 @@ document_metadata:
   review_cycle: "QUARTERLY"
   document_id: "PI-GATEKEEPER-2025-001"
   author: "Manus AI"
-  document_integrity_hash: "[TO_BE_CALCULATED]"
+  document_integrity_hash: "33e77979ae663aff7a087e7c2ccb7491c321abf7c7d75dc0bbdaffd09db02b23"
 
 framework_metadata:
   implementation_type: "USER_FRIENDLY_FRAMEWORK"
